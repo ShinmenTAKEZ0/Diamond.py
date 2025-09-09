@@ -1,0 +1,2 @@
+# Diamond.py
+python
